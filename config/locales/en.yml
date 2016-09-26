@@ -76,6 +76,7 @@ en:
         updated_user: "Update user's information failed!"
         deleted_user: "Delete user failed!"
       load_shop: "Cannot find shop!"
+      load_category: "Cannot find category!"
       dashboard:
         create_product: "Created product failed!"
         edit_product: "Edit product failed!"
